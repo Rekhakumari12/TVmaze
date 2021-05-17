@@ -1,0 +1,25 @@
+.input_field {
+  width: 29rem;
+  padding: 6px;
+  font-size: 17px;
+  outline: #434040;
+  font-weight: 800;
+  margin-top: 0rem;
+}
+.custom_input {
+  margin: 17px 10px 0px 17px;
+}
+@media (max-width: 380px) {
+  .input_field {
+    width: 16rem;
+    margin-top: 0rem;
+  }
+}
+@media (max-width: 338px) {
+  .input_field {
+    padding: 2px;
+    width: 13rem;
+    margin-top: 2rem;
+    font-size: 15px;
+  }
+}

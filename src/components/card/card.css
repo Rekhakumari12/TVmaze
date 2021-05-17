@@ -1,0 +1,24 @@
+.card_custom_style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h6 {
+  font-weight: 800;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.summary,
+.rating {
+  font-size: 17px;
+}
+.star_icon {
+  font-size: 17px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
