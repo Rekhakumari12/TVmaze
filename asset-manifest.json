@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TVmaze/static/css/main.4c0d3eec.chunk.css",
-    "main.js": "/TVmaze/static/js/main.eca39202.chunk.js",
-    "main.js.map": "/TVmaze/static/js/main.eca39202.chunk.js.map",
+    "main.css": "/TVmaze/static/css/main.46df79ac.chunk.css",
+    "main.js": "/TVmaze/static/js/main.52ab88c8.chunk.js",
+    "main.js.map": "/TVmaze/static/js/main.52ab88c8.chunk.js.map",
     "runtime-main.js": "/TVmaze/static/js/runtime-main.957aea86.js",
     "runtime-main.js.map": "/TVmaze/static/js/runtime-main.957aea86.js.map",
     "static/js/2.faa4e5d3.chunk.js": "/TVmaze/static/js/2.faa4e5d3.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.cb968547.chunk.js": "/TVmaze/static/js/3.cb968547.chunk.js",
     "static/js/3.cb968547.chunk.js.map": "/TVmaze/static/js/3.cb968547.chunk.js.map",
     "index.html": "/TVmaze/index.html",
-    "static/css/main.4c0d3eec.chunk.css.map": "/TVmaze/static/css/main.4c0d3eec.chunk.css.map",
+    "static/css/main.46df79ac.chunk.css.map": "/TVmaze/static/css/main.46df79ac.chunk.css.map",
     "static/js/2.faa4e5d3.chunk.js.LICENSE.txt": "/TVmaze/static/js/2.faa4e5d3.chunk.js.LICENSE.txt",
     "static/media/home.css": "/TVmaze/static/media/black.3be500c7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.957aea86.js",
     "static/js/2.faa4e5d3.chunk.js",
-    "static/css/main.4c0d3eec.chunk.css",
-    "static/js/main.eca39202.chunk.js"
+    "static/css/main.46df79ac.chunk.css",
+    "static/js/main.52ab88c8.chunk.js"
   ]
 }
